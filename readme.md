@@ -1,5 +1,5 @@
 # Broken HTML
-This app has invalid HTML in `index.html`. Use [w3's html validator](http://validator.w3.org/check) to work out errors. 
+This app has invalid HTML in `index.html`. Use [w3's html validator](https://validator.w3.org/#validate_by_input) to work out errors. 
 
 ## Steps:
 1. Visit the above link 
